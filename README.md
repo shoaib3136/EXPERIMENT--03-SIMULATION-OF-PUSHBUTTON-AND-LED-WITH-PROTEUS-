@@ -101,10 +101,10 @@ int main(void)
 ## Output screen shots of proteus  :
 
 i.) LED is in OFF state when the button is pressed:
-![image](https://github.com/shoaib3136/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/117919362/326346cc-7717-44c4-8d4f-fc10103e4c52)
+![image](https://github.com/shoaib3136/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/117919362/df01e5bd-c825-42d9-aecd-d4f30c74f46a)
 
 ii.) LED is in ON state when the button is pressed:
-![image](https://github.com/shoaib3136/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/117919362/254049c8-ea8f-460c-85c6-458516381e9a)
+![image](https://github.com/shoaib3136/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/117919362/d5aab61e-22ed-4215-be02-45381f145e05)
 
 
 
@@ -114,7 +114,7 @@ ii.) LED is in ON state when the button is pressed:
 ## Proteus layout(Add pdf screen shot of circuit here):
 
 i.) Pdf of the MCU:
-![image](https://github.com/shoaib3136/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/117919362/b171d857-c246-4dfa-94de-52fde7eaf631)
+![image](https://github.com/shoaib3136/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/117919362/c3de043f-05db-4263-8e24-44782506f77f)
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
